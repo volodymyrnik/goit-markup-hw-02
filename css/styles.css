@@ -132,11 +132,11 @@ ul {list-style-type: none;}
                     text-transform: capitalize;
                     text-align: center;
                     color: #2e2f42;}
-.portfolio-style{font-size: 16px;
+.portfolio-style {font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455}
-.port-head          {font-weight: 500;
+.porthead          {font-weight: 500;
                     font-size: 20px;
                     line-height: 1.2;
                     letter-spacing: 0.02em;
