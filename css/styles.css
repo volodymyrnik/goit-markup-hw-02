@@ -1,22 +1,13 @@
 /* root */
-<!DOCTYPE html>
 :root {
-    --primary-text-color:#434455;
-    --title-text-color:#2E2F42;
-    --second-text-color:#FFFFFF;
-    --accent-color:#4D5AE5;
-    --head-background-color:#E5E5E5;
-    --other-background-color: #F4F4FD;}
-
-
-html {}   
-
-*, 
-*::before, 
-*::after {}
-
-/* body */
-
+    --primary-bg-color: #ffffff;
+    --secondary-bg-color: #2E2F42;
+    --color-main-text: #2E2F42;
+    --color-secondary-text: #434455;
+    --accent: #4D5AE5;
+    --accent-pressed-state: #404BBF;
+    --color-bg-team: #F4F4FD;
+    }
 body {color:#434455;
     background-color:#FFFFFF;
     font-family: 'Roboto', sans-serif; 
